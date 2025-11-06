@@ -10,8 +10,12 @@
 <div align="Center">
 
 <h2 align="left">Contact me</h2>
+
 <p align="center">
-<a href="mailto:gonnnzadev@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎<a href="[https://instagram.com/xir.rence](https://discord.com/users/589540757929590786)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> 
+<a href="mailto:gonnnzadev@gmail.com"> 
+  <img width="100px"src="https://skillicons.dev/icons?i=gmail"/> </a> ‎
+  ‎ ‎<a href="[https://instagram.com/xir.rence](https://discord.com/users/589540757929590786)">
+    <img width="100px"src="https://skillicons.dev/icons?i=discord"/> </a> 
 </p>
 
 </div>
