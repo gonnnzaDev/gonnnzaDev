@@ -1,6 +1,6 @@
 <h1 align="left">Hi! my name is Gonza :3</h1>
 
-<p>I’m 18 years old and I’m currently studying programming at UTN University in Mar del Plata, Argentina</p>
+<p>i’m 18 years old and i’m currently studying programming at UTN University in Mar del Plata, Argentina</p>
 <h2 align="left">Languages</h2>
 <p align="center">
 <img width="250px"  src="https://skillicons.dev/icons?i=c,java&perline=10"  />
