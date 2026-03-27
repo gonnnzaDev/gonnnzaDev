@@ -26,6 +26,7 @@
 </a>
 
 <a href="mailto:gonnnzaDev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+       width="90" height="90" alt="Gmail">
 </a>
 </div>
