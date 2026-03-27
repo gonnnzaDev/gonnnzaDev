@@ -20,7 +20,12 @@
   
 
 <h2 align="left">Contact me</h2>
+<a href ="https://www.linkedin.com/in/gonzalo-lopez-84334539a/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+       width="90" height="90" alt="LinkedIn"/>
+</a>
 
-
-
+<a href="mailto:gonnnzaDev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </div>
