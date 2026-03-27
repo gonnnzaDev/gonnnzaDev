@@ -26,7 +26,7 @@
 </a>
 
 <a href="mailto:gonnnzaDev@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
-       width="90" height="90" alt="Gmail">
+<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/79b2e68c-c2a3-44c2-bd87-566f4bdf40d4" />
+
 </a>
 </div>
