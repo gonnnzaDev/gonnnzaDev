@@ -1,6 +1,6 @@
 <h1 align="left">Hi! my name is Gonza :3</h1>
 
-<p>i’m 18 years old and i’m currently studying programming at UTN university in Mar del Plata, Argentina</p>
+<p>i’m 19 years old and i’m currently studying programming at UTN university in Mar del Plata, Argentina</p>
 <div align="Center">
 <h2 align="left">Skills</h2>
 
