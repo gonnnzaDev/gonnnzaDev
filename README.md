@@ -16,6 +16,7 @@
   <img width="100px"src="https://skillicons.dev/icons?i=gmail"/> </a> ‎
   ‎ ‎<a href="[https://instagram.com/xir.rence](https://discord.com/users/589540757929590786)">
     <img width="100px"src="https://skillicons.dev/icons?i=discord"/> </a> 
+  <img width="100px"src="https://skillicons.dev/icons?i=linkedin"/> </a> 
 </p>
 
 </div>
